@@ -6,7 +6,8 @@ https://drive.google.com/drive/folders/1c21u4pEI093QfFWUbyn713WBISqr-9yT?usp=sha
 
 <h1>#Confusion Matrix</h1>
 
-![img](https://github.com/Mahendrawis/Citrus-Disease/assets/90669261/ed16352a-3d54-4ed9-afc8-e987197b1374)
+![img](https://github.com/Mahendrawis/Citrus-Disease/assets/90669261/cf6e5853-f7b1-4e4c-a8df-21ea25f92df7)
+
 
 
 <h1>#Predicted</h1>
